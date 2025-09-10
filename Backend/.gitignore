@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+Backend/node_modules/
+Backend/movie-proxy/node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
